@@ -13,7 +13,7 @@
         android:background="@drawable/msg_left">
 
         <TextView
-            android:id="@+id/msg_left"
+            android:id="@+id/textView_leftMsg"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -30,7 +30,7 @@
         android:background="@drawable/msg_right">
 
         <TextView
-            android:id="@+id/msg_right"
+            android:id="@+id/textView_rightMsg"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
